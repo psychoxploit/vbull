@@ -2,9 +2,9 @@
 --------------------------------------
 ![vBulletin Mass Exploit](https://i.ibb.co/t2vy7kv/Screenshot-2020-02-21-05-27-44-789-com-termux.png)
 ## About:
--------------
-Author : GHz7<br/>
-Team : [PsychoXploit](https://instagram.com/psychoxploit)
+
+
+
 ### Alert!
 -------
 **This tool was made for penetration testing CVE-2019-16759.**<br/>
