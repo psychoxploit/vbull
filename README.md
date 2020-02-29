@@ -1,7 +1,7 @@
 # vBulletin Mass Exploit CVE-2019-16759
 --------------------------------------
 ![vBulletin Mass Exploit](https://i.ibb.co/t2vy7kv/Screenshot-2020-02-21-05-27-44-789-com-termux.png)
-## About:
+--------
 
 
 
